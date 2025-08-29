@@ -56,5 +56,3 @@ Este proyecto incluye un conjunto de pruebas automáticas para asegurar que la l
 ```bash
 python -m unittest test_complex_library.py
 ```
-
-Si todas las pruebas pasan, significa que la librería está funcionando como se espera.
